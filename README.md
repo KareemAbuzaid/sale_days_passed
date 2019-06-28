@@ -1,2 +1,2 @@
 # sale_days_passed
-odoo module to add the number of days since creation to a sale order
+A very simple odoo module to demenstrate best practices
